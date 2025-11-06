@@ -30,10 +30,10 @@ The following datasets were used in the course of this research:
 **Research data**  
 The following ground truth file was produced based on drop camera video recordings taken at the Isles of Shoals.  
 - [ground_truth.csv](https://github.com/c-tyler/shoalsRF-repository/blob/main/ground_truth.csv)
-The following file is the output of our Random Forest models. It contains the training accuracy, validation accuracy, precision, recall, F1 statistic, and per-class and model-wide variable importances summarized in our publication.
-- [rf_outputs.csv]
-The following file contains the number of cells of each habitat class at each confidence threshold, which were used to calculate percentages in our publication.
-- [classification_cells.csv]
+The following file is the output of our Random Forest models. It contains the training accuracy, validation accuracy, precision, recall, F1 statistic, and per-class and model-wide variable importances summarized in our publication.  
+- [rf_outputs.csv](https://github.com/c-tyler/shoalsRF-repository/blob/main/rf_outputs.csv)  
+The following file contains the number of cells of each habitat class at each confidence threshold, which were used to calculate percentages in our publication.  
+- [classification_cells.csv](https://github.com/c-tyler/shoalsRF-repository/blob/main/classification_cells.csv)  
 These files are made available under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).    
 
 **Research code**  
